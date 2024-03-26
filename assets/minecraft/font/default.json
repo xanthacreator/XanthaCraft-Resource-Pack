@@ -3,8 +3,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:pics/logo.png",
-            "height": 106,
-            "ascent": 66,
+            "height": 255,
+            "ascent": 143,
             "chars": [
                 "😎"
             ]
