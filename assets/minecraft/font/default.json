@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:pics/logo.png",
+            "file": "minecraft:textures/pics/logo.png",
             "height": 255,
             "ascent": 143,
             "chars": [
