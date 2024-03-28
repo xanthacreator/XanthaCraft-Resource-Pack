@@ -13,7 +13,7 @@ jobs:
         git config --global user.email "xanthacreator@gmail.com"
         git config pull.rebase false
         git pull
-        rm -f release.zip
+        rm -f XanthaCraft.zip
     - name: Archive Release
       uses: thedoctor0/zip-release@master
       with:
