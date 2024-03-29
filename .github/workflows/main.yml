@@ -38,7 +38,7 @@ jobs:
       id: create_release
       uses: actions/create-release@v1
       env:
-        GITHUB_TOKEN: ${{ secrets.RESOURCE_ZIPPER }}
+        GITHUB_TOKEN: ${{ secrets.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 }}
       with:
         tag_name: release-${{ github.sha }}
         release_name: Release ${{ github.sha }}
