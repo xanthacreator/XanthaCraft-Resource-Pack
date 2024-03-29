@@ -1,13 +1,13 @@
 {
-    "providers": [
-        {
-            "type": "bitmap",
-            "file": "minecraft:textures/pics/logo.png",
-            "height": 255,
-            "ascent": 143,
-            "chars": [
-                "😎"
-            ]
-        }
-    ]
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:pics/logo.png",
+      "height": 255,
+      "ascent": 143,
+      "chars": [
+        "😎"
+      ]
+    }
+  ]
 }
