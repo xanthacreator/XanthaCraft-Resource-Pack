@@ -3,10 +3,10 @@
     {
       "type": "bitmap",
       "file": "XanthaCraft:font/logo.png",
-      "height": 255,
-      "ascent": 143,
+      "height": 106,
+      "ascent": 59,
       "chars": [
-        "xc23"
+        "😎"
       ]
     }
   ]
